@@ -27,7 +27,7 @@
  *                sipariş. Bu dosyanın sağlanması için, son girdinin dışındaki her satırın arkasında bir virgül bulunmalıdır.
  *                geçerli sözdizimidir.
  *
- *              Herhangi olası bir durumda biz sorumlu değiliz.
+ *                Herhangi olası bir durumda biz sorumlu değiliz.
  */
 
 var cnames_active = {
