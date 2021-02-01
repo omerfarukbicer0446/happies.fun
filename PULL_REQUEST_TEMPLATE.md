@@ -1,0 +1,2 @@
+- [x] Sayfamda makul içerik olduğunu kabul ediyorum.
+- [x] Olası herhangi bir aksaklıkta happies.fun ekibini sorumlu tutmuyorum.
