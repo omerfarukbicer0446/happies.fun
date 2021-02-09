@@ -33,6 +33,7 @@
 var cnames_active = {
   "": "smiley.github.io",
   "docs": "smiley.github.io/docs",
+  "wavejs": "water-llc.github.io"
   /*
    * Lütfen buraya kayıt eklemeyin.
    * Çakışmaları öncelemek için alfabetik sıra ile ekleme yapın.
